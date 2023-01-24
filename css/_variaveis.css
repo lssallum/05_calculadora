@@ -1,0 +1,17 @@
+/* VARIAVEIS */
+:root{
+  /* CORES */
+  --azul: #2198f3;
+  --rosa: #e91e63;
+  
+    /* BACKGROUNDS */
+  --bg-primary: linear-gradient(var(--azul), var(--rosa));
+  --transp: rgba(255, 255, 255, 0.1);
+
+  /* TYPOGRAPH */
+  --font-primary: 'Poppins', sans-serif;
+
+  /* OTHER */
+  --shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+  --shadow-border: 1px solid rgba(255, 255, 255, 0.5);
+}
